@@ -1,0 +1,44 @@
+.box-log{
+    display: flex;
+    align-items: center;
+    position: flex;
+    justify-content: center;
+    margin-top: 15vh;
+  }
+  .form{
+    display: absolute;
+    align-items: center;
+    position: flex;
+    justify-content: center;
+    border: 2px solid rgb(255, 179, 0);
+    padding: 10px 80px 10px 55px;
+  }
+  .form h2{
+    color: rgb(255, 179, 0);
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  .inputBox{
+    position: flex;
+    margin-bottom: 30px;
+  }
+  .c{
+    position: flex;
+    text-align: center;
+    color: #fff;
+    background: rgb(49, 43, 43);
+    padding: 8px 8px 8px 8px;
+    border-radius: 9px;
+    transition: all .70s ease;
+    border: 3px solid rgb(255, 179, 0);
+    margin: -10px 0px 5px 50px;
+  }
+  .redirect-register{
+    color: rgb(255, 255, 255);
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-align: center;
+    margin: 10px 0px 5px 0px;
+  }

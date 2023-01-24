@@ -1,0 +1,41 @@
+{
+  "name": "etnadefi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "date-fns": "^2.29.3",
+    "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-eslint-plugin": "^5.0.6",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.31.11",
+    "next": "^13.0.6",
+    "prettier-eslint": "^15.0.1",
+    "react": "18.2.0",
+    "react-big-calendar": "^1.5.2",
+    "react-bootstrap": "^2.7.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.4.5",
+    "sass": "^1.56.1",
+    "web-vitals": "^3.1.0"
+  }
+}

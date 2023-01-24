@@ -1,0 +1,138 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-part {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: 100%;
+    margin-left: 30px;
+}
+.photo img {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-top: -20px;
+    margin-left: 14%;
+    margin-bottom: 25px;
+    height: 180px;
+}
+.name {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 13%;
+}
+.cadre-marks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.marks {
+    border: 2px solid rgb(0, 0, 0);
+    padding-top: 5px;
+    padding-right: 2em;
+    padding-bottom: 5px;
+    padding-left: 2em;
+    width: 340px;
+    background-color: lightgray;
+}
+.marks h4 {
+    display: flex;
+    justify-content: center;
+}
+.marks p {
+    display: flex;
+    justify-content: center;
+}
+.cadre-commentaire {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin: 20px 0px 20px 0px;
+
+}
+.commentaire {
+    border: 2px solid rgb(0, 0, 0);
+    padding-top: 5px;
+    padding-right: 2em;
+    padding-bottom: 5px;
+    padding-left: 2em;
+    width: 340px;
+    background-color: lightgray;
+
+}
+.commentaire p {
+    display: block;
+    padding-top: 5px;
+    padding-right: 2em;
+    padding-bottom: 5px;
+    padding-left: 2em;
+}
+.commentaire h4 {
+    display: flex;
+    justify-content: center;
+}
+
+.cadre-tags {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.tags {
+    border: 2px solid rgb(0, 0, 0);
+    padding-top: 5px;
+    padding-right: 2em;
+    padding-bottom: 5px;
+    padding-left: 2em;
+    width: 340px;
+    background-color: lightgray;
+
+}
+.tags h4 {
+    display: flex;
+    justify-content: center;
+}
+
+.right-part {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: -40% 0px 0px 45%;
+}
+.melee-part {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: lightgrey;
+    width: 100%;
+    height: 400px;
+}
+.melee-part h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-gmail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 40%;
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 8px;
+    padding: 10px 24px;
+
+}

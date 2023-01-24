@@ -1,0 +1,22 @@
+.student-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: #333;
+    border-radius: 10px;
+}
+
+.student-card img {
+    color: grey;
+    font-size: 18px;
+    border-radius: 200%;
+}
+
+.student-card h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.card h1 {
+    text-align: center;
+}
